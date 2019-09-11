@@ -20,7 +20,7 @@ In this scenario, we can see a similar pattern as above (although it takes more 
 
 ### Q-Learning vs. Q-Learning
 The result speaks for itself here:
-![Image of Q vs. Q](https://github.com/sunbri/tictactoe/blob/master/qvr.png)
+![Image of Q vs. Q](https://github.com/sunbri/tictactoe/blob/master/qvq.png)
 
 In this case, both of the Q agents learned to play optimally (against each other). It ends with a 100% tie rate, as both players figure out how to avoid a loss. 
 
